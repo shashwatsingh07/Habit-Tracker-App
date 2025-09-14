@@ -122,39 +122,6 @@ Run frontend:
 
 npm run dev
 
-## 📂 Project Structure
-🚀 Deployment
-Frontend (React + Vite)
-
-Push code to GitHub.
-
-Connect repo to Vercel.
-
-Add environment variables in Vercel dashboard:
-
-VITE_API_URL=https://your-backend.vercel.app/api
-
-Deploy 🎉
-
-Backend (Express)
-
-Move backend to /api folder for Vercel.
-
-Ensure server.js exports app:
-
-module.exports = app;
-
-
-Add .env variables in Vercel dashboard:
-
-MONGODB_URI
-
-JWT_SECRET
-
-FRONTEND_URL=https://your-frontend.vercel.app
-
-Deploy 🎉
-
 📌 API Endpoints
 Auth
 
