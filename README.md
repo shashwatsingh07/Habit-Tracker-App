@@ -58,10 +58,6 @@ Built with **MongoDB, Express.js, React, Node.js**, and deployed on **Vercel** +
 - bcrypt for password hashing
 - Helmet, CORS, Express-rate-limit
 
-### Deployment
-- **Frontend:** Vercel
-- **Backend:** Vercel (Serverless Functions)
-- **Database:** MongoDB Atlas
 
 ---
 
