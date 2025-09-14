@@ -4,7 +4,7 @@
 # 🌱 HabitFlow - Habit Tracker App
 
 A **full-stack MERN application** to help users build, track, and maintain healthy habits with social features and analytics.  
-Built with **MongoDB, Express.js, React, Node.js**, and deployed on **Vercel** + **MongoDB Atlas**.
+Built with **MongoDB, Express.js, React, Node.js**.
 
 ---
 ## 🚀 Screenshots
